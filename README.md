@@ -30,7 +30,7 @@ pip install pyjwt rich
 
 ### **Step 3: Run the Script**
 ```bash
-python jwt_decoder.py  # Assuming you saved the script as jwt_decoder.py
+python JwtTokenAnalyzer.py 
 ```
 
 ---
